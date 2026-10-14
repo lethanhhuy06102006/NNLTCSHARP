@@ -1,0 +1,14 @@
+C:\Users\admin\Downloads\ThucHanh02\ThucHanh02\bin\Debug\net8.0\ThucHanh02.exe
+C:\Users\admin\Downloads\ThucHanh02\ThucHanh02\bin\Debug\net8.0\ThucHanh02.deps.json
+C:\Users\admin\Downloads\ThucHanh02\ThucHanh02\bin\Debug\net8.0\ThucHanh02.runtimeconfig.json
+C:\Users\admin\Downloads\ThucHanh02\ThucHanh02\bin\Debug\net8.0\ThucHanh02.dll
+C:\Users\admin\Downloads\ThucHanh02\ThucHanh02\bin\Debug\net8.0\ThucHanh02.pdb
+C:\Users\admin\Downloads\ThucHanh02\ThucHanh02\obj\Debug\net8.0\ThucHanh02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\ThucHanh02\ThucHanh02\obj\Debug\net8.0\ThucHanh02.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\ThucHanh02\ThucHanh02\obj\Debug\net8.0\ThucHanh02.AssemblyInfo.cs
+C:\Users\admin\Downloads\ThucHanh02\ThucHanh02\obj\Debug\net8.0\ThucHanh02.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\ThucHanh02\ThucHanh02\obj\Debug\net8.0\ThucHanh02.dll
+C:\Users\admin\Downloads\ThucHanh02\ThucHanh02\obj\Debug\net8.0\refint\ThucHanh02.dll
+C:\Users\admin\Downloads\ThucHanh02\ThucHanh02\obj\Debug\net8.0\ThucHanh02.pdb
+C:\Users\admin\Downloads\ThucHanh02\ThucHanh02\obj\Debug\net8.0\ThucHanh02.genruntimeconfig.cache
+C:\Users\admin\Downloads\ThucHanh02\ThucHanh02\obj\Debug\net8.0\ref\ThucHanh02.dll
