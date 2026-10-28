@@ -1,0 +1,9 @@
+namespace Bai01 {
+    internal static class Program {
+        [STAThread]
+        static void Main() {
+            ApplicationConfiguration.Initialize();
+            Application.Run(new frmBai01()); // họn form khởi động ở đây
+        }
+    }
+}
